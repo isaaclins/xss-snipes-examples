@@ -1,4 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
+    document.body.innerHTML = '';
     // HTML content to be loaded
     var htmlContent = `
         <!DOCTYPE html>
