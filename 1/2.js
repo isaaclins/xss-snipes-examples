@@ -1,1 +1,3 @@
-document.body.innerHTML = '';
+ document.addEventListener('DOMContentLoaded', function() {
+    document.body.innerHTML = '';
+});
